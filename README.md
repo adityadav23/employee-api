@@ -2,7 +2,7 @@
 
 
 # Add a .env file => 
-  Add a MONGO_URI,  JWT_SECRET, JWT_EXPIRE
+  Add a MONGO_URI,  JWT_SECRET, JWT_LIFETIME
 
 # Run following scripts =>
   npm install &&  npm start 
